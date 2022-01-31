@@ -1,13 +1,14 @@
 # Employee-Tracker
 
 # Description
-This is an app that allows the user to view all employees based on role and department.
+This is an app that allows the user to view all employees, roles and departments as well as view employees by their respective departments.
 
 # Installation
   This app cannot be installed
 
   # Usage
   View employees in database
+  View this video demonstration: https://watch.screencastify.com/v/1aoJ29xdVmkSlcQ1OOvUgit 
 
   # Contribution
   See contact me section 
