@@ -1,7 +1,7 @@
 # Employee-Tracker
 
 # Description
-This is an app that allows the user to view all employees based on roleand department.
+This is an app that allows the user to view all employees based on role and department.
 
 # Installation
   To install clone this repository https://github.com/LynneceE/employee-tracker.git
