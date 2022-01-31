@@ -4,10 +4,7 @@
 This is an app that allows the user to view all employees based on role and department.
 
 # Installation
-  To install clone this repository https://github.com/LynneceE/employee-tracker.git
-  Enter your own User and Password in the MYSQL Connection function
-  Run npm start to initiate inquirer prompts
-
+  This app cannot be installed
 
   # Usage
   View employees in database
