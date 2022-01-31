@@ -3,12 +3,15 @@
 # Description
 This is an app that allows the user to view all employees, roles and departments as well as view employees by their respective departments.
 
+
+
+
 # Installation
   This app cannot be installed
 
   # Usage
   View employees in database
-  View this video demonstration: https://watch.screencastify.com/v/1aoJ29xdVmkSlcQ1OOvUgit 
+  View this video demonstration: https://youtu.be/rpESw7rPTWo
 
   # Contribution
   See contact me section 
