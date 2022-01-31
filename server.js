@@ -39,6 +39,8 @@ connection.connect(function(err) {
               "View Roles",
               "View Employees by Department",
               
+              
+              
 
 
 
@@ -63,6 +65,12 @@ connection.connect(function(err) {
               case "View Employees by Department":
                   getEmployeesByDepartment();
                   break;
+             
+              case "View Employees by Manager" :
+                  getEmployeesbyManager();
+                  break;   
+
+              
 
                
           }
@@ -168,8 +176,6 @@ connection.connect(function(err) {
     }
 
     
-     
 
 
-
-    
+   
